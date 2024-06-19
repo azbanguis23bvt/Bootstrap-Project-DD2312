@@ -1,0 +1,61 @@
+.top{
+    color: rgb(172, 41, 91)
+}
+
+.hero{
+    background-image: url("assets/Mount\ Fuji\ _\ Bootstrap.jpg");
+    height: 800px;
+    width: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 4px;
+}
+
+.welcome{
+    color: aliceblue;
+    margin-top: 80px;
+}
+
+.sub {
+    color: aliceblue;
+    margin-top: 60px;
+}
+
+h1{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+p{
+    color: rgb(56, 56, 56);
+}
+
+.cta{
+    margin-top: 60px;
+}
+
+.cards {
+    width: 1000px;
+    margin-top: 80px;
+    margin-left: 100px;
+    padding: 10px;
+}
+
+#input1{
+    width: 400px;
+}
+
+#input2{
+    width: 600px;
+}
+
+ul{
+    margin-top: 100px;
+}
+li{
+    padding: 3px;
+}
